@@ -8,4 +8,4 @@ Usage example:
 Default credentials set in the image:
 
 * Username: `admin`
-* Password: `pass1PASS123!`
+* Password: `P@$$w0rd!`
