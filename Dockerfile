@@ -28,7 +28,7 @@ RUN pip install mongoengine==0.17.0
 
 RUN pip install pymongo==3.0
 
-RUN sh contrib/mongo/mongod_start.sh && python manage.py users -u admin -p "Passw0rd123!" -s -i -a -A -e admin@ctrits.crits -f Admin -l User -o none
+RUN sh contrib/mongo/mongod_start.sh && python manage.py users -u admin -p "Passw0rd123!" -s -i -a -A -e admin@crits.crits -f Admin -l User -o none
 
 EXPOSE 8080
 
