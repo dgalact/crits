@@ -3,7 +3,7 @@ Docker container builder, fixing issues I found in CRITS repo (https://crits.git
 
 Usage example:
 
-`docker run -d -p 80:8080 tmiklas/crits-docker`
+`docker run -d -p 80:8080 dgalact/crits`
 
 Default credentials set in the image:
 
