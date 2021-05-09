@@ -1,6 +1,6 @@
 # Crits
 
-<img src="https://github.com/dgalact/crits/workflows/Docker-Image-CI/badge.svg?branch=main">
+![example workflow](https://github.com/dgalact/crits/actions/workflows/docker-image.yml/badge.svg)
 
 Docker container builder https://crits.github.io
 
