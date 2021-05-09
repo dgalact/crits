@@ -11,5 +11,5 @@ Default credentials set in the image:
 * Password: `Passw0rd123!`
 
 Status of last deployment:<br>
-<img src="https://github.com/dgalact/crits/workflows/Docker-Image-CI/badge.svg?branch=master"><br>
+<img src="https://github.com/dgalact/crits/workflows/Docker-Image-CI/badge.svg?branch=main"><br>
 
