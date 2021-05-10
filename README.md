@@ -1,6 +1,6 @@
 # Crits
 
-![example workflow](https://github.com/dgalact/crits/actions/workflows/docker-image.yml/badge.svg)
+[![Build Status](https://github.com/dgalact/crits/actions/workflows/docker-image.yml/badge.svg)](https://github.com/dgalact/crits/actions)
 
 Docker container builder https://crits.github.io
 
